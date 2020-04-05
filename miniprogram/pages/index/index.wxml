@@ -1,0 +1,2 @@
+<button bindtap="msg">订阅消息</button>
+<button bindtap="send">发送消息</button>
